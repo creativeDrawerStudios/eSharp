@@ -55,5 +55,9 @@ class Es{
         y + height > yy){
             return true;
         }  
+        else{
+            return false;
+        }
     }   
+
 }
