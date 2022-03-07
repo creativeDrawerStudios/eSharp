@@ -13,5 +13,7 @@ es.checkCollisions(x,y,width,height,x1,y1,width1,height1); <br />
 es.text("text",x,y,color,opacity);
 ##### The Opacity selector is optional
 #### More things coming soon.
+## Using eSharp
+
 
 
