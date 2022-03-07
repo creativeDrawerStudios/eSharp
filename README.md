@@ -1,4 +1,4 @@
-![screenshot](screenshots/main.png)<br />
+<img src="screenshots/main.png" alt="screenshot" width="450"/> <br />
 A easy to use html canvas based helper tool/software/game engine.
 ### Commands
 es.random(maximum number); <br />
