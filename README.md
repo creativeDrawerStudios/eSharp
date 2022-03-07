@@ -11,6 +11,7 @@ es.background(color); <br />
 es.image(image,x,y,width,height,opacity); <br />
 es.checkCollisions(x,y,width,height,x1,y1,width1,height1); <br />
 es.text("text",x,y,color,opacity);
-##### Opacity is optional
+##### The Opacity selector is optional
 #### More things coming soon.
+
 
