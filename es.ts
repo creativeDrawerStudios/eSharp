@@ -59,5 +59,15 @@ class Es{
             return false;
         }
     }   
-
+    line(x,y,xx,yy,w,color,opacity=1){
+        c.globalAlpha = opacity;
+        c.strokeStyle = color;
+        c.lineWidth = w;
+        c.beginPath();
+        c.moveTo(x, y);
+        c.lineTo(xx,yy);
+        c.stroke();
+        c.globalAlpha = 1;
+    }
+    
 }
