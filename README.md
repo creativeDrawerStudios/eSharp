@@ -15,6 +15,7 @@ A easy to use html canvas based helper tool/software/game engine.<br/>
     <li>es.checkCollisions(x,y,width,height,x1,y1,width1,height1);</li>
     <li>es.text("text",x,y,color,opacity);</li>
     <li>es.line(x,y,x1,y1,lineWidth,color,opacity);</li>
+    <li>es.getMousePos(canvas,event);</li>
 	</ul>
 </details><br/>
 The Opacity selector is optional <br/>
